@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kelompok2_RecyclerView</string>
+    <string name="namaAnggota">Nama Anggota</string>
+    <string name="Deskripsi">Deskripsi</string>
+</resources>
